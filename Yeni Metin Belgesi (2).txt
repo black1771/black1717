@@ -1,0 +1,7 @@
+{
+  "name": "black17",
+  "website": "https://github.com/black1771",
+  "description": "ı operate on some data",
+  "logo": "https://r.resimlink.com/0BKaTRGmWL.png",
+  "twitter": "https://twitter.com/vedattelli18"
+}
